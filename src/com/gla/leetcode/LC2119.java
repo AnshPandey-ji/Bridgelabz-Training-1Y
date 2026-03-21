@@ -1,6 +1,6 @@
 package com.gla.leetcode;
 
-class Solution {
+class LC2119 {
     public boolean isSameAfterReversals(int num) {
         if (num == 0) {
             return true;
